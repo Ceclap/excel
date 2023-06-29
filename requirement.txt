@@ -1,0 +1,14 @@
+webpack (import/export)
+        Babel
+        Scss
+        Eslint
+        Two mods
+
+                -Dev
+                    Dev server,Source map,Eslint, Note Modified JS and Css
+                -Prod
+                    Minified code
+web design(html/css)
+implement Js components
+
+
